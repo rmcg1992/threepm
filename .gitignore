@@ -1,0 +1,6 @@
+logs/
+*.log
+threepmspec.*
+threepmdecomp*
+demo.do
+threepm_synth_p10.dta
